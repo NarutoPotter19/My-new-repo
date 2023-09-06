@@ -23,6 +23,15 @@ body {
     font-size: 18px;
     white-space: pre-wrap;
 }
+.first-h1 {
+    color: rgb(234, 116, 48);
+    font-size: 20px;
+  }
+  
+  .second-h1 {
+    color: rgb(32, 208, 9);
+    font-size: 30px;
+  }
 
 @media only screen and (max-width: 600px) {
     .june-images {
